@@ -17,7 +17,7 @@ to run and analyze at one time. See --help for more options.
 
 __version__ = "0.1.0"
 
-__author__ = ["Mitchell Taylor"]
+__author__ = ["Mizzy"]
 
 
 import os
